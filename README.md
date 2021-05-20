@@ -5,3 +5,7 @@
 - 💬 Ask me about nothing
 - 📫 How to reach me: discord (tanos#9337), gmail (opmijloly@gmail.com), gitter (TacoGit)
 - 😄 Pronouns: he/him
+
+![POWERED BY| BLACK MAGIC](https://forthebadge.com/images/badges/powered-by-black-magic.svg) <br/>
+![STATS (LANGUAGES)](https://github-readme-stats.vercel.app/api/top-langs/?username=TruncatedDinosour&layout=compact&theme=radical&hide_border=true)
+![STATS (COMMITS)](https://github-readme-stats-sabesansathananthan.vercel.app/api?username=TruncatedDinosour&show_icons=true&hide_border=true&theme=radical)
