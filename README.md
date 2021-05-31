@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on usable
+- 🔭 I’m currently working on ~~usable~~ nothing right now
 - 🌱 I’m currently learning nodejs
 - 💬 Ask me about nothing
 - 📫 How to reach me: discord (tanos#9337), gmail (opmijloly@gmail.com), gitter (TacoGit)
