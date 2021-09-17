@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ~~usable~~ nothing right now
-- 🌱 I’m currently learning ~~nodejs~~ rust
+- 🌱 I’m currently learning ~~nodejs~~ ~~rust~~ nothing
 - 💬 Ask me about nothing
 - 📫 How to reach me: discord (tanos#8993), gmail (opmijloly@gmail.com), gitter (TacoGit)
 - 😄 Pronouns: he/him
