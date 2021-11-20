@@ -13,6 +13,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a>
     <img src="https://komarev.com/ghpvc/?username=TacoGit">
 </a>
