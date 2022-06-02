@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on ~~usable~~ nano2spend
 - 🌱 I’m a full stack developer
 - 📫 How to reach me: discord (tanos#1337) or gmail (opmijloly@gmail.com)
-- 😄 Pronouns: he/him
 
 
 ![STATS (LANGUAGES)](https://github-readme-stats.vercel.app/api/top-langs/?username=TacoGit&layout=compact&theme=radical&hide_border=true)
