@@ -10,8 +10,6 @@
 ![STATS (COMMITS)](https://github-readme-stats-sabesansathananthan.vercel.app/api?username=TacoGit&show_icons=true&hide_border=true&theme=radical)
 
 
-[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
-
 <a>
     <img src="https://komarev.com/ghpvc/?username=TacoGit">
 </a>
