@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ~~usable~~ nothing right now
-- 🌱 I’m currently learning ~~nodejs~~ ~~rust~~ nothing
-- 📫 How to reach me: discord (tanos#8993), gitter (TacoGit)
+- 🔭 I’m currently working on ~~usable~~ nano2spend
+- 🌱 I’m a full stack developer
+- 📫 How to reach me: discord (tanos#1337) or gmail (opmijloly@gmail.com)
 - 😄 Pronouns: he/him
 
 
