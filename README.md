@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on nano2spend
+- 🔭 I’m currently working on ez-root, a tool to root your android phone easily
 - 🌱 I’m a full stack developer
 - 📫 How to reach me: discord (tanos#1337) or gmail (opmijloly@gmail.com)
 
