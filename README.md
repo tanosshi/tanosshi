@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ez-root, a tool to root your android phone easily
 - 🌱 I’m a full stack developer
-- 📫 How to reach me: discord (tanos#1337) or gmail (opmijloly@gmail.com)
+- 📫 How to reach me: discord (tanos#4079) or gmail (opmijloly@gmail.com)
 
 ![Metrics](https://metrics.lecoq.io/tacogit?template=classic&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=Europe%2FBerlin)
 
