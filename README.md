@@ -1,1 +1,8 @@
 ![Home](https://github.com/tanosshi/tanosshi/blob/main/thumb.png?raw=true)
+![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C#](https://img.shields.io/badge/c%23-000000?style=for-the-badge&logo=csharp&logoColor=white)![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=ffffff)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=ffffff)
