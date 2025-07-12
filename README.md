@@ -1,5 +1,6 @@
 ![Home](https://github.com/tanosshi/tanosshi/blob/main/thumb.png?raw=true)
 <img src="https://count.getloli.com/get/@tanosshi?theme=rule34" alt="visitors tracking sorry" width="1" height="1" style="position:absolute;display: inline;"/>&#8203;
+<img src="https://api.visitorbadge.io/api/VisitorHit?user=tanosshi&repo=tanosshi&countColor=%237B1E7A" alt="visitors tracking backup sorry" width="1" height="1" style="position:absolute;display: inline;"/>&#8203;
 ![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-000000?style=for-the-badge&logo=csharp&logoColor=white)![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)
